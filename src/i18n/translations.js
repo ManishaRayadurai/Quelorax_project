@@ -22,7 +22,7 @@ export const translations = {
         nav_settings: "Settings",
         nav_logout: "Logout",
 
-        hero_title_1: "Quelorax:",
+        hero_title_1: "Quelorax",
         hero_title_2: "Crowd Flow Management",
         hero_title_3: "System",
         hero_subtitle: "Transform hospital and government office experiences with AI-based waiting-time prediction, intelligent token management, and real-time crowd forecasting.",
@@ -80,7 +80,7 @@ export const translations = {
         nav_settings: "அமைப்புகள்",
         nav_logout: "வெளியேறு",
 
-        hero_title_1: "க்யூலோரக்ஸ்:",
+        hero_title_1: "க்யூலோரக்ஸ்",
         hero_title_2: "கூட்ட நெரிசல் மேலாண்மை",
         hero_title_3: "அமைப்பு",
         hero_subtitle: "AI-அடிப்படையிலான காத்திருப்பு நேர கணிப்பு, திறமையான டோக்கன் மேலாண்மை மற்றும் நேரடி கூட்ட முன்னறிவிப்புடன் மருத்துவமனை மற்றும் அரசு அலுவலக அனுபவங்களை மாற்றுங்கள்.",

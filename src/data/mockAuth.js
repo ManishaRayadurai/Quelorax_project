@@ -11,10 +11,10 @@ const SESSION_KEY = "quelorax_session";
 const RESET_KEY = "quelorax_reset_tokens";
 
 const SEED_USERS = [
-    { id: "P-10284", name: "Rajesh Kumar", email: "rajesh.kumar@email.com", mobile: "9876543210", password: "patient123", role: "patient", module: "hospital" },
-    { id: "R-20011", name: "Priya Sharma", email: "priya.sharma@email.com", mobile: "9876512345", password: "reception123", role: "receptionist", module: "hospital" },
-    { id: "N-30077", name: "Meena Devi", email: "meena.devi@email.com", mobile: "9876523456", password: "nurse123", role: "nurse", module: "hospital" },
-    { id: "D-40019", name: "Dr. Arjun Nair", email: "arjun.nair@email.com", mobile: "9876534567", password: "doctor123", role: "doctor", module: "hospital" },
+    { id: "P-10284", name: "Rajesh Kumar", email: "rajesh.kumar@gmail.com", mobile: "9876543210", password: "patient123", role: "patient", module: "hospital" },
+    { id: "R-20011", name: "Priya Sharma", email: "priya.sharma@gmail.com", mobile: "9876512345", password: "reception123", role: "receptionist", module: "hospital" },
+    { id: "N-30077", name: "Meena Devi", email: "meena.devi@gmail.com", mobile: "9876523456", password: "nurse123", role: "nurse", module: "hospital" },
+    { id: "D-40019", name: "Dr. Arjun Nair", email: "arjun.nair@gmail.com", mobile: "9876534567", password: "doctor123", role: "doctor", module: "hospital" },
     { id: "A-90001", name: "Admin User", email: "admin@quelorax.com", mobile: "9876545678", password: "admin123", role: "admin", module: "hospital" },
 ];
 
